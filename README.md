@@ -40,7 +40,6 @@ Here are the tools and languages I frequently work with:
 ### **Platforms & Technologies**
 - **GitHub Actions**: Automating workflows and deployments.
 - **Docker**: Containerizing applications for scalability.
-- **WebRTC**: Implementing real-time communication systems.
 
 ---
 
