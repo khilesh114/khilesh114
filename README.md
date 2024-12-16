@@ -53,7 +53,6 @@ Here are the tools and languages I frequently work with:
 
 ## 🎥 My Content Creation:
 - **YouTube**: Watch me share coding tutorials, GitHub workflows, and hacking tips on [GitHubGuru](https://www.youtube.com/@GitHubGuru).
-- **Hacking Blog**: Read in-depth articles and guides on hacking, programming, and automation.
 
 ---
 
